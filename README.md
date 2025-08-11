@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Jesus Manuel Arrieta Suarez 
-**Profesión:** _analista desarrallodor de software_
+**Profesión:** _Analista Desarrallodor De Software_
 
 ## 📞 Contacto
 - **Email:** (jesusm.arrieta2008@gmail.com)
