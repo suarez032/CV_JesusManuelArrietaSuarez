@@ -13,7 +13,7 @@
 - Aprendiz Analista y Desarrollo De Software.
 
 ### **Sena** _(2025 - Actualidad)_
-- Poython.
+- Python.
 - Typescript
 
 ## 🎓 Educación
