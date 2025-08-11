@@ -1,28 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Jesus Manuel Arrieta Suarez 
+**Profesión:** _analista desarrallodor de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** (jesusm.arrieta2008@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Aprendiz Analista y Desarrollo De Software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Poython.
+- Typescript
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - Actualidad)_
+- Analisis Y Desarrollo de software .
+- Bachiller.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
+- **Trabajo En Equipo**
+- **Resolucion De Conflicto**
 - **Habilidad 3**
 
 ---
